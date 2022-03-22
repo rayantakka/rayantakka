@@ -162,10 +162,11 @@ Development of Relative Value and risk monitoring tools.</li>
 								<li>
 									<img src="img/ETHZ.png" class="image-logo">
 									<h6> </h6>
-									<h3>Academic exchange at the Economics/Mathematics Department</h3>
+									<h3>ETH Zürich</h3>
 									<h4>Feb 2022 - Aug 2022, Zürich, Switzerland</h4>
 									<p>
 										<ul>
+											<li> Academic exchange at the Economics/Mathematics Department </li>
 											<li> Main courses: Decisions and Markets, Financial Economics, Business Analytics, Computational Methods for Quantitative
 Finance</li>
 										</ul>
