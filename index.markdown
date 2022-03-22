@@ -92,7 +92,6 @@ layout: home
 							<ul>
 								<li><span>Running : </span> 2 times per week </li>
 								<li><span>Football : </span> University Level, Member of CentraleSupélec Football CLub Club</li>
-								<li><span>Non-profit organization : </span>Vice-President of Ski Club Centrale Paris (in charge of the student ski trip)</li>
 							</ul>
 	
 						</div>
@@ -123,11 +122,11 @@ identify optimal solutions.</li>
 									</p>
 								</li>
 								<li>
-									<img src="img/sgcib.jpg" class="image-logo">
+									<img src="img/sgcib.png" class="image-logo">
 									<h6> </h6>
 									<h3>Trader Intern</h3>
 									<h3>Société Générale CIB</h3>
-									<h4>Sept 2021 - Mar 2022, London, United Kingdom</h4>
+									<h4>Sept 2021 - Mar 2022, Paris, France</h4>
 									<p>
 										<ul>
 											<li> 6-month internship in the Euro Govies and Inflation trading desk, in charge of the quotation and hedging of European bonds.
@@ -164,11 +163,11 @@ Development of Relative Value and risk monitoring tools.</li>
 								<li>
 									<img src="img/ETHZ.png" class="image-logo">
 									<h6> </h6>
-									<h3>Academic exchange at the Economics/Mathematics Department</h3>
-									<h4>Feb 2022 - Aug 2022, Zürich, Switzerland</h4>
+									<h3>ETH Zürich</h3>
+									<h4>Feb 2021 - Aug 2021, Zürich, Switzerland</h4>
 									<p>
 										<ul>
-											<li>Highly selective Master’s level in applied mathematics to finance</li>
+											<li>Academic exchange at the Economics/Mathematics Department</li>
 											<li> Main courses: Decisions and Markets, Financial Economics, Business Analytics, Computational Methods for Quantitative
 Finance</li>
 										</ul>
@@ -195,7 +194,7 @@ Finance</li>
 								<div class="skills">
 									<div class="single-progress-item">
 										<div class="progress-bar-style" data-progress="90"></div>
-										<p>Python, Full-Stack Data Analysis</p>
+										<p>Python</p>
 									</div>
 									<div class="single-progress-item">
 										<div class="progress-bar-style" data-progress="70"></div>
