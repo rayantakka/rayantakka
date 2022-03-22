@@ -125,7 +125,7 @@ identify optimal solutions.</li>
 									<h6> </h6>
 									<h3>Trader Intern</h3>
 									<h3>Société Générale CIB</h3>
-									<h4>Sept 2021 - Mar 2022, London, United Kingdom</h4>
+									<h4>Sept 2021 - Mar 2022, Paris, France</h4>
 									<p>
 										<ul>
 											<li> 6-month internship in the Euro Govies and Inflation trading desk, in charge of the quotation and hedging of European bonds.
