@@ -63,7 +63,7 @@ layout: home
 								<h2>Rayan<br>Takka</h2>
 								<p>An engineering student from CentraleSupélec </p>
 							</div>
-							<p class="mb-5">I am currently a student at CentraleSupélec for my last year of studies after an internship in a quantitative strategy structuring team at BNP Paribas CIB and a trading internship on the desk in charge of bond market making at Société Générale CIB. I am looking for an internship in quantitative finance starting in April 2023. The rigorous risk management, technical knowledge and precision required by such a position, a true bridge between financial markets and clients, perfectly match my academic profile. Covering mathematics, economics and programming, my courses at CentraleSupélec gave me the essential tools to start working in markets finance.</p>
+							<p class="mb-5">I am currently a student at CentraleSupélec for my last year of studies after an internship in a Quantitative Investment Strategy (QIS) structuring team at BNP Paribas CIB and an internship in the Euro Govies and Inflation trading desk, in charge of the quotation and hedging of European bonds at Société Générale CIB. I am looking for an internship in quantitative finance starting in April 2023. The rigorous risk management, technical knowledge and precision required by such a position, a true bridge between financial markets and clients, perfectly match my academic profile. Covering mathematics, economics and programming, my courses at CentraleSupélec gave me the essential tools to start working in market finance.</p>
 							<div class="hero-info pt-5">
 								<div class="section-title">
 									<h2>General Info</h2>
@@ -81,7 +81,7 @@ layout: home
 							<ul class="language-progress">
 								<li>French <div class="lan-prog" data-lanprogesss="5"></div></li>
 								<li>English <div class="lan-prog" data-lanprogesss="4"></div></li>
-								<li>Spanish <div class="lan-prog" data-lanprogesss="2"></div></li>
+								<li>Spanish <div class="lan-prog" data-lanprogesss="3"></div></li>
 							</ul>
 						</section>
 						<div class="section-title">
@@ -90,6 +90,7 @@ layout: home
 							<ul>
 								<li><span>Running : </span> 2 times per week </li>
 								<li><span>Football : </span> University Level, Member of CentraleSupélec Football CLub Club</li>
+								<li><span> Teaching: Mathematics and Physics tutor for undergraduate and high shool students</li>
 							</ul>
 	
 						</div>
@@ -154,7 +155,7 @@ Development of Relative Value and risk monitoring tools.</li>
 										<ul>
 											<li>Highly selective Master’s level engineering school, ranked no.2 in France</li>
 											<li> Majors 3rd Year:</li>
-											<li> Majors 1st & 2nd Year: Mathematics (Probability & Statistics), Physics, Global Market Finance, Corporate Finance, Accounting, Economy, Programming </li>
+											<li> Majors 1st & 2nd Year: Probability theory, Partial Differential Equations, Statistics, Algorithms and Complexity, Machine Learning, Models and Systems for Big Data Management, Mathematical modeling of financial markets, Quantum physics </li>
 										</ul>
 									</p>
 								</li>
@@ -165,7 +166,6 @@ Development of Relative Value and risk monitoring tools.</li>
 									<h4>Feb 2022 - Aug 2022, Zürich, Switzerland</h4>
 									<p>
 										<ul>
-											<li>Highly selective Master’s level in applied mathematics to finance</li>
 											<li> Main courses: Decisions and Markets, Financial Economics, Business Analytics, Computational Methods for Quantitative
 Finance</li>
 										</ul>
@@ -248,12 +248,7 @@ Finance</li>
 			<div class="copyright">
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Designed by Rayan Takka
 
-.container {
-  outline: dashed 1px black;
-  /* Center child horizontally*/
-  display: flex;
-  justify-content: center;
-}
+
 
 </div>
 		</div>
