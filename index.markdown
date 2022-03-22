@@ -4,8 +4,6 @@
 
 layout: home
 ---
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<title>Rayan TAKKA</title>
@@ -96,7 +94,7 @@ layout: home
 	
 						</div>
 					</div>
-				</div>
+				
 
 				<div class="col-xl-6 col-lg-7">
 					<div class="main-right-area">
@@ -122,11 +120,11 @@ identify optimal solutions.</li>
 									</p>
 								</li>
 								<li>
-									<img src="img/sgcib.png" class="image-logo">
+									<img src="img/sgcib.jpg" class="image-logo">
 									<h6> </h6>
 									<h3>Trader Intern</h3>
 									<h3>Société Générale CIB</h3>
-									<h4>Sept 2021 - Mar 2022, Paris, France</h4>
+									<h4>Sept 2021 - Mar 2022, London, United Kingdom</h4>
 									<p>
 										<ul>
 											<li> 6-month internship in the Euro Govies and Inflation trading desk, in charge of the quotation and hedging of European bonds.
@@ -163,11 +161,11 @@ Development of Relative Value and risk monitoring tools.</li>
 								<li>
 									<img src="img/ETHZ.png" class="image-logo">
 									<h6> </h6>
-									<h3>ETH Zürich</h3>
-									<h4>Feb 2021 - Aug 2021, Zürich, Switzerland</h4>
+									<h3>Academic exchange at the Economics/Mathematics Department</h3>
+									<h4>Feb 2022 - Aug 2022, Zürich, Switzerland</h4>
 									<p>
 										<ul>
-											<li>Academic exchange at the Economics/Mathematics Department</li>
+											<li>Highly selective Master’s level in applied mathematics to finance</li>
 											<li> Main courses: Decisions and Markets, Financial Economics, Business Analytics, Computational Methods for Quantitative
 Finance</li>
 										</ul>
@@ -194,7 +192,7 @@ Finance</li>
 								<div class="skills">
 									<div class="single-progress-item">
 										<div class="progress-bar-style" data-progress="90"></div>
-										<p>Python</p>
+										<p>Python, Full-Stack Data Analysis</p>
 									</div>
 									<div class="single-progress-item">
 										<div class="progress-bar-style" data-progress="70"></div>
@@ -249,6 +247,13 @@ Finance</li>
 		<div class="container text-center">
 			<div class="copyright">
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Designed by Rayan Takka
+
+.container {
+  outline: dashed 1px black;
+  /* Center child horizontally*/
+  display: flex;
+  justify-content: center;
+}
 
 </div>
 		</div>
