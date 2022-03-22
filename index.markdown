@@ -63,7 +63,7 @@ layout: home
 								<h2>Rayan<br>Takka</h2>
 								<p>An engineering student from CentraleSupélec </p>
 							</div>
-							<p class="mb-5">I am currently a student at CentraleSupélec for my last year of studies after an internship in a quantitative strategy structuring team at BNP Paribas CIB and a trading internship on the desk in charge of bond market making at Société Générale CIB. I am looking for an internship in quantitative finance starting in April 2023. The rigorous risk management, technical knowledge and precision required by such a position, a true bridge between financial markets and clients, perfectly match my academic profile. Covering mathematics, economics and programming, my courses at CentraleSupélec gave me the essential tools to start working in markets finance.</p>
+							<p class="mb-5">I am currently a student at CentraleSupélec for my last year of studies after an internship in a quantitative strategy structuring team at BNP Paribas CIB and a trading internship in the Euro Govies and Inflation trading desk, in charge of the quotation and hedging of European bonds at Société Générale CIB. I am looking for an internship in quantitative finance starting in April 2023. The rigorous risk management, technical knowledge and precision required by such a position, a true bridge between financial markets and clients, perfectly match my academic profile. Covering mathematics, economics and programming, my courses at CentraleSupélec gave me the essential tools to start working in markets finance.</p>
 							<div class="hero-info pt-5">
 								<div class="section-title">
 									<h2>General Info</h2>
