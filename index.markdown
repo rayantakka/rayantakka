@@ -89,7 +89,8 @@ layout: home
 						</div>
 							<ul>
 								<li><span>Running : </span> 2 times per week </li>
-								<li><span>Football : </span> University Level, Member of CentraleSupélec Football CLub Club</li>
+								<li><span>Football : </span> University Level, Member of CentraleSupélec Football Club</li>
+								<li><span>Teaching : </span> Mathematics and Physics tutor for undergraduate and high shool students</li>
 							</ul>
 	
 						</div>
@@ -249,7 +250,7 @@ Finance</li>
 Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Designed by Rayan Takka
 
 
-	</footer>
+	
 	<!-- Footer section end -->
 
 
@@ -260,5 +261,4 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 	<script src="js/magnific-popup.min.js"></script>
 	<script src="js/circle-progress.min.js"></script>
 	<script src="js/main.js"></script>
-</body>
-</html>
+
