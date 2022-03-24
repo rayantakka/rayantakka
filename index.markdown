@@ -111,7 +111,7 @@ layout: home
 									<h6> </h6>  <!-- technique pour espacer le logo il y a surement bien mieux à faire (Il y a des caractères non vides invisible) -->
 									<h3>Quantitative Investment Strategies (QIS) Intern</h3>
 									<h3>BNP Paribas CIB</h3>
-									<h4>Mar 2022 - Aug 2022, Paris, France</h4>
+									<h4> - Aug 2022, Paris, France</h4>
 									<p>
 										<ul>
 											<li> 6-month internship in the QIS Lab OF BNP Paribas CIB, in charge of the development of quantitative investment strategies.
