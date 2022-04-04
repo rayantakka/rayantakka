@@ -194,7 +194,7 @@ Finance</li>
 								<div class="skills">
 									<div class="single-progress-item">
 										<div class="progress-bar-style" data-progress="90"></div>
-										<p>Python, Full-Stack Data Analysis</p>
+										<p>Python</p>
 									</div>
 									<div class="single-progress-item">
 										<div class="progress-bar-style" data-progress="70"></div>
@@ -205,7 +205,7 @@ Finance</li>
 										<p>SQL</p>
 									</div>
 									<div class="single-progress-item">
-										<div class="progress-bar-style" data-progress="40"></div>
+										<div class="progress-bar-style" data-progress="20"></div>
 										<p>HTML/CSS</p>
 									</div>
 									<div class="single-progress-item">
