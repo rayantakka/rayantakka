@@ -108,7 +108,8 @@ layout: home
 								<li>
 								<li>
 									<img src="img/bnp_paribas_logo.png" class="image-logo">
-									<h6> </h6>  <!-- technique pour espacer le logo il y a surement bien mieux à faire (Il y a des caractères non vides invisible) -->
+									<h6> </h6>
+									<h6> </h6><!-- technique pour espacer le logo il y a surement bien mieux à faire (Il y a des caractères non vides invisible) -->
 									<h3>Quantitative Investment Strategies (QIS) Intern</h3>
 									<h3>BNP Paribas CIB</h3>
 									<h4>Apr 2022 - Aug 2022, Paris, France</h4>
@@ -122,6 +123,7 @@ identify optimal solutions.</li>
 								</li>
 								<li>
 									<img src="img/sgcib.jpg" class="image-logo">
+									<h6> </h6>
 									<h6> </h6>
 									<h3>Trader Intern</h3>
 									<h3>Société Générale CIB</h3>
@@ -154,7 +156,7 @@ Development of Relative Value and risk monitoring tools.</li>
 									<p>
 										<ul>
 											<li>Highly selective Master’s level engineering school, ranked no.2 in France</li>
-											<li> Majors 3rd Year:Mathematical Modelling and Financial Mathematics</li>
+											<li> Majors 3rd Year: Mathematical Modelling and Financial Mathematics</li>
 											<li> Majors 1st & 2nd Year: Probability theory, Partial Differential Equations, Statistics, Algorithms and Complexity, Machine
 Learning, Models and Systems for Big Data Management, Quantum physics. </li>
 										</ul>
@@ -167,7 +169,7 @@ Learning, Models and Systems for Big Data Management, Quantum physics. </li>
 									<h4>Feb 2021 - Aug 2021, Zürich, Switzerland</h4>
 									<p>
 										<ul>
-											<li>Academic Exchange in the Economics/Mathematics Department</li>
+											<li>Academic Exchange in the Economics & Mathematics Department</li>
 											<li> Main courses: Decisions and Markets, Financial Economics, Business Analytics, Computational Methods for Quantitative
 Finance</li>
 										</ul>
