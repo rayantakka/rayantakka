@@ -154,9 +154,9 @@ Development of Relative Value and risk monitoring tools.</li>
 									<p>
 										<ul>
 											<li>Highly selective Master’s level engineering school, ranked no.2 in France</li>
-											<li> Majors 3rd Year:</li>
+											<li> Majors 3rd Year:Mathematical Modelling and Financial Mathematics</li>
 											<li> Majors 1st & 2nd Year: Probability theory, Partial Differential Equations, Statistics, Algorithms and Complexity, Machine
-Learning, Models and Systems for Big Data Management, Mathematical modeling of financial markets, Quantum physics. </li>
+Learning, Models and Systems for Big Data Management, Quantum physics. </li>
 										</ul>
 									</p>
 								</li>
@@ -205,12 +205,16 @@ Finance</li>
 										<p>SQL</p>
 									</div>
 									<div class="single-progress-item">
-										<div class="progress-bar-style" data-progress="20"></div>
+										<div class="progress-bar-style" data-progress="25"></div>
 										<p>HTML/CSS</p>
 									</div>
 									<div class="single-progress-item">
 										<div class="progress-bar-style" data-progress="80"></div>
 										<p>LaTeX</p>
+									</div>
+									<div class="single-progress-item">
+										<div class="progress-bar-style" data-progress="30"></div>
+										<p>Java</p>
 									</div>
 								</div>
 							<!--	<div class="icon-box-area spad">
