@@ -6,6 +6,7 @@ layout: home
 ---
 <html lang="en">
 <head>
+	<meta name="google-site-verification" content="DNSnshmsekQa7z9X8UqL-y6DImUQL14C1DFk5I9g8hs" />
 	<title>Rayan TAKKA</title>
 	<meta charset="UTF-8">
 	<meta name="description" content="Civic - CV Resume">
