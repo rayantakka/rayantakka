@@ -64,7 +64,7 @@ layout: home
 								<h2>Rayan<br>Takka</h2>
 								<p>An engineering student from CentraleSupélec </p>
 							</div>
-							<p class="mb-5">I am currently a student at CentraleSupélec for my last year of studies after an internship in a quantitative strategy structuring team at BNP Paribas CIB and a trading internship in the Euro Govies and Inflation trading desk, in charge of the quotation and hedging of European bonds at Société Générale CIB. I am looking for an internship in quantitative finance starting in May 2023. The rigorous risk management, technical knowledge and precision required by such a position, a true bridge between financial markets and clients, perfectly match my academic profile. Covering mathematics, economics and programming, my courses at CentraleSupélec gave me the essential tools to start working in markets finance.</p>
+							<p class="mb-5">I am currently a student in applied Mathematics at CentraleSupélec for my last year of studies after an internship in a quantitative strategy structuring team at BNP Paribas CIB and a trading internship in the Euro Govies and Inflation trading desk, in charge of the quotation and hedging of European bonds at Société Générale CIB. I am looking for an internship in quantitative finance starting in May 2023. </p>
 							<div class="hero-info pt-5">
 								<div class="section-title">
 									<h2>General Info</h2>
@@ -116,8 +116,8 @@ layout: home
 									<h4>Apr 2022 - Aug 2022, Paris, France</h4>
 									<p>
 										<ul>
-											<li> 5-month internship in the QIS Lab OF BNP Paribas CIB, in charge of the development of quantitative investment strategies.
-Main Tasks : development of new intraday strategies and analysis tools, quantitative analysis of high frequency data to
+											<li> 5-month internship in the QIS team OF BNP Paribas CIB, in charge of the development of quantitative investment strategies.
+Main Tasks : Research, implementation, backtesting and optimization of Multi-Asset Systematic Strategies, quantitative analysis of high frequency data to
 identify optimal solutions.</li>
 										</ul>
 									</p>
