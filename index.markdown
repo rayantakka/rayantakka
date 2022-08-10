@@ -119,7 +119,7 @@ layout: home
 Main Tasks : Research, implementation, backtesting and optimization of Multi-Asset Systematic Strategies, quantitative analysis of high frequency data to
 												identify optimal solutions.
 											</li></ul>
-									
+									<br/><br/>
 								<li>
 									<img src="img/sgcib.jpg" class="image-logo">
 									<h6> </h6>
@@ -159,6 +159,7 @@ Development of Relative Value and risk monitoring tools.</li>
 Learning, Models and Systems for Big Data Management, Quantum physics. </li>
 										</ul>
 									</p>
+							<br/><br/>
 									<img src="img/ETHZ.png" class="image-logo">
 									<h6> </h6>
 									<h3>ETH Zürich</h3>
@@ -170,6 +171,7 @@ Learning, Models and Systems for Big Data Management, Quantum physics. </li>
 Finance</li>
 										</ul>
 									</p>
+			<br/><br/>
 									<h3>Lycée Masséna</h3>
 									<h4>Sep 2017 - Jul 2019, Nice, France</h4>
 									<p>
