@@ -105,7 +105,7 @@ layout: home
 							<div class="section-title">
 								<h2>Work Experience</h2>
 							</div>
-							<ul class="resume-list">
+							
 								<li>
 								<li>
 									<img src="img/bnp_paribas_logo.png" class="image-logo">
