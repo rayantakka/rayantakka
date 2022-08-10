@@ -105,9 +105,8 @@ layout: home
 							<div class="section-title">
 								<h2>Work Experience</h2>
 							</div>
-							
-								<li>
-								<li>
+							<ul class="resume-list">
+						
 									<img src="img/bnp_paribas_logo.png" class="image-logo">
 									<h6> </h6>
 									<h6> </h6><!-- technique pour espacer le logo il y a surement bien mieux à faire (Il y a des caractères non vides invisible) -->
