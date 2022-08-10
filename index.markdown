@@ -114,13 +114,13 @@ layout: home
 									<h3>Quantitative Investment Strategies (QIS) Intern</h3>
 									<h3>BNP Paribas CIB</h3>
 									<h4>Apr 2022 - Aug 2022, Paris, France</h4>
-									<p>
-										<ul>
+		
+										<ul><li>
 											  5-month internship in the QIS team OF BNP Paribas CIB, in charge of the development of quantitative investment strategies.
 Main Tasks : Research, implementation, backtesting and optimization of Multi-Asset Systematic Strategies, quantitative analysis of high frequency data to
 												identify optimal solutions.
-									</ul>
-									</p>
+											</li></ul>
+									
 								</li>
 								<li>
 									<img src="img/sgcib.jpg" class="image-logo">
