@@ -120,7 +120,6 @@ Main Tasks : Research, implementation, backtesting and optimization of Multi-Ass
 												identify optimal solutions.
 											</li></ul>
 									
-								</li>
 								<li>
 									<img src="img/sgcib.jpg" class="image-logo">
 									<h6> </h6>
@@ -148,7 +147,6 @@ Development of Relative Value and risk monitoring tools.</li>
 								<h2>Education</h2>
 							</div>
 							<ul class="resume-list">
-								<li>
 									<img src="img/centrale_supelec_icon.png" class="image-logo">
 									<h6> </h6>
 									<h3>CentraleSupélec </h3>
@@ -161,8 +159,6 @@ Development of Relative Value and risk monitoring tools.</li>
 Learning, Models and Systems for Big Data Management, Quantum physics. </li>
 										</ul>
 									</p>
-								</li>
-								<li>
 									<img src="img/ETHZ.png" class="image-logo">
 									<h6> </h6>
 									<h3>ETH Zürich</h3>
@@ -174,8 +170,6 @@ Learning, Models and Systems for Big Data Management, Quantum physics. </li>
 Finance</li>
 										</ul>
 									</p>
-								</li>
-								<li>
 									<h3>Lycée Masséna</h3>
 									<h4>Sep 2017 - Jul 2019, Nice, France</h4>
 									<p>
@@ -184,7 +178,6 @@ Finance</li>
 					exams after a Baccalauréat in Sciences (A-Levels equivalent)</li>
 					          </ul>
 									</p>
-								</li>
 							</ul>
 						</section>
 						<br> <!-- To fill the blank after the skills -->
