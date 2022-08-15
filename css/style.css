@@ -20,7 +20,7 @@ h3,
 h4,
 h5,
 h6 {
-	color: #f8f8f8;
+	color: #40424a;
 	margin: 0;
 	font-weight: 600;
 	font-family: 'Josefin Sans', sans-serif;
@@ -35,9 +35,9 @@ h3 {
 }
 
 p {
-	font-size: 20px;
-	color: #ffffff;
-	line-height: 1.6;
+	font-size: 18px;
+	color: #808181;
+	line-height: 1.8;
 }
 
 img {
@@ -86,7 +86,7 @@ ol {
 	height: 2px;
 	left: 0;
 	bottom: 0;
-	background: #f8f8f8;
+	background: #40424a;
 }
 
 .set-bg {
@@ -173,13 +173,13 @@ ol {
 	position: relative;
 	background-color: #fff;
 	margin-right: 10px;
-	border: 2px solid #f8f8f8;
-	color: #f8f8f8;
+	border: 2px solid #40424a;
+	color: #40424a;
 	font-weight: 700;
 }
 
 .site-btn:hover {
-	color: #f8f8f8;
+	color: #40424a;
 }
 
 .circle-progress {
@@ -199,7 +199,7 @@ ol {
 }
 
 .circle-progress .progress-info {
-	background: #f2f2f2;
+	background: #e8ebff;
 	width: 127px;
 	height: 127px;
 	border-radius: 150px;
@@ -251,7 +251,7 @@ ol {
 	height: 375px;
 	display: table;
 	width: 100%;
-	background: #f8f8f8;
+	background: #40424a;
 }
 
 .fact-box.trans {
@@ -286,7 +286,7 @@ ol {
 }
 
 .single-progress-item p {
-	color: #f8f8f8;
+	color: #40424a;
 	margin-bottom: 0;
 	font-weight: 600;
 }
@@ -304,14 +304,14 @@ ol {
 	height: 100%;
 	left: 0;
 	top: 0;
-	background: #f8f8f8;
+	background: #40424a;
 }
 
 .bar-inner span {
 	position: absolute;
 	right: 0;
 	bottom: -30px;
-	color: #f8f8f8;
+	color: #40424a;
 	font-weight: 600;
 }
 
@@ -340,7 +340,7 @@ ol {
 	display: inline-block;
 	margin-right: 18px;
 	border-radius: 12px;
-	background: #f8f8f8;
+	background: #40424a;
 }
 
 .language-progress .lan-prog span.fade-ele {
@@ -363,7 +363,7 @@ ol {
 }
 
 .icon-box p {
-	color: #f8f8f8;
+	color: #40424a;
 }
 
 .social-links a {
@@ -377,7 +377,7 @@ ol {
 -----------------------*/
 .header-section {
 	padding: 50px 40px;
-	background: #161616;
+	background: #e8ebff;
 }
 
 .site-logo h2 {
@@ -385,7 +385,7 @@ ol {
 }
 
 .site-logo h2 a {
-	color: #f8f8f8;
+	color: #40424a;
 }
 
 .site-logo p {
@@ -401,7 +401,7 @@ ol {
 	Hero section
 -----------------------*/
 .hero-section {
-	background: #161616;
+	background: #e8ebff;
 }
 
 .hero-text {
@@ -438,7 +438,7 @@ ol {
 }
 
 .hero-info ul li span {
-	color: #f8f8f8;
+	color: #40424a;
 	display: inline-block;
 	min-width: 220px;
 }
@@ -510,7 +510,7 @@ ol {
 }
 
 .resume-list li {
-	margin-bottom: 120px;
+	margin-bottom: 80px;
 	position: relative;
 }
 
@@ -519,6 +519,7 @@ ol {
 }
 
 .resume-list li:after {
+	font-size: 18px;
 	position: absolute;
 	content: '';
 	width: 15px;
@@ -536,7 +537,7 @@ ol {
 }
 
 .resume-list h4 {
-	font-size: 16px;
+	font-size: 20px;
 	text-transform: uppercase;
 	color: #808181;
 	margin-top: 10px;
@@ -692,7 +693,7 @@ ol {
 	Footer section
 -----------------------*/
 .footer-section {
-	background: #f8f8f8;
+	background: #40424a;
 	padding: 20px 0;
 }
 
@@ -812,7 +813,7 @@ ol {
 -----------------------*/
 .home-three-style .main-left-area,
 .home-four-style .main-left-area {
-	background: #161616;
+	background: #e8ebff;
 	padding-top: 200px;
 	padding-right: 80px;
 	padding-left: 80px;
@@ -1229,7 +1230,7 @@ ol {
 @media only screen and (max-width: 1450px) {
 	.home-five-style .header-section {
 		position: relative;
-		background: #161616;
+		background: #e8ebff;
 	}
 	.home-six-style .header-section {
 		position: relative;
@@ -1240,7 +1241,7 @@ ol {
 @media only screen and (max-width: 1366px) and (min-width: 1200px) {
 	.home-five-style .header-section {
 		position: relative;
-		background: #161616;
+		background: #e8ebff;
 	}
 	.container-warp {
 		min-width: 80%;
@@ -1309,11 +1310,11 @@ ol {
 		display: none;
 	}
 	.portfolio-item {
-		margin-bottom: 20px;
+		margin-bottom: 30px;
 	}
 	.home-three-style .header-section {
 		position: relative;
-		background: #161616;
+		background: #e8ebff;
 	}
 	.home-three-style .main-left-area {
 		padding-top: 0;
@@ -1335,7 +1336,7 @@ ol {
 		color: #9c9b9b;
 	}
 	.hero-info ul li {
-		margin-bottom: 20px;
+		margin-bottom: 30px;
 	}
 	.hero-info ul li span {
 		display: block;
@@ -1375,7 +1376,7 @@ ol {
 		margin-right: 15px;
 	}
 	.portfolio-item {
-		margin-bottom: 20px;
+		margin-bottom: 30px;
 	}
 	.fact-box {
 		margin-bottom: 30px;
@@ -1389,7 +1390,7 @@ ol {
 	}
 	.home-three-style .header-section {
 		position: relative;
-		background: #161616;
+		background: #e8ebff;
 	}
 	.home-three-style .main-left-area {
 		padding-top: 0;
