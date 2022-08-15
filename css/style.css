@@ -377,7 +377,7 @@ ol {
 -----------------------*/
 .header-section {
 	padding: 50px 40px;
-	background: #5D8896;
+	background: #525968;
 }
 
 .site-logo h2 {
@@ -401,7 +401,7 @@ ol {
 	Hero section
 -----------------------*/
 .hero-section {
-	background: #5D8896;
+	background: #525968;
 }
 
 .hero-text {
@@ -812,7 +812,7 @@ ol {
 -----------------------*/
 .home-three-style .main-left-area,
 .home-four-style .main-left-area {
-	background: #5D8896;
+	background: #525968;
 	padding-top: 200px;
 	padding-right: 80px;
 	padding-left: 80px;
@@ -1229,7 +1229,7 @@ ol {
 @media only screen and (max-width: 1450px) {
 	.home-five-style .header-section {
 		position: relative;
-		background: #5D8896;
+		background: #525968;
 	}
 	.home-six-style .header-section {
 		position: relative;
@@ -1240,7 +1240,7 @@ ol {
 @media only screen and (max-width: 1366px) and (min-width: 1200px) {
 	.home-five-style .header-section {
 		position: relative;
-		background: #5D8896;
+		background: #525968;
 	}
 	.container-warp {
 		min-width: 80%;
@@ -1309,11 +1309,11 @@ ol {
 		display: none;
 	}
 	.portfolio-item {
-		margin-bottom: 30px;
+		margin-bottom: 20px;
 	}
 	.home-three-style .header-section {
 		position: relative;
-		background: #5D8896;
+		background: #525968;
 	}
 	.home-three-style .main-left-area {
 		padding-top: 0;
@@ -1335,7 +1335,7 @@ ol {
 		color: #9c9b9b;
 	}
 	.hero-info ul li {
-		margin-bottom: 30px;
+		margin-bottom: 20px;
 	}
 	.hero-info ul li span {
 		display: block;
@@ -1375,7 +1375,7 @@ ol {
 		margin-right: 15px;
 	}
 	.portfolio-item {
-		margin-bottom: 30px;
+		margin-bottom: 20px;
 	}
 	.fact-box {
 		margin-bottom: 30px;
@@ -1389,7 +1389,7 @@ ol {
 	}
 	.home-three-style .header-section {
 		position: relative;
-		background: #5D8896;
+		background: #525968;
 	}
 	.home-three-style .main-left-area {
 		padding-top: 0;
