@@ -153,10 +153,19 @@ Development of Relative Value and risk monitoring tools.</li>
 									<h4>Sep 2019 - May 2023, Paris, France</h4>
 									<p>
 										<ul>
-											<li>Highly selective Master’s level engineering school, ranked no.2 in France</li>
-											<li> Majors 3rd Year: Mathematical Modelling and Financial Mathematics</li>
-											<li> Majors 1st & 2nd Year: Probability theory, Partial Differential Equations, Statistics, Algorithms and Complexity, Machine
+											<li>Highly selective Master’s level engineering school, ranked no.2 in France.  Last year Majors: Mathematical Modelling and Financial Mathematics</li>
+											<li>  1st & 2nd Year Majors: Probability theory, Partial Differential Equations, Statistics, Algorithms and Complexity, Machine
 Learning, Models and Systems for Big Data Management, Quantum physics. </li>
+										</ul>
+									</p>
+							<br/><br/>
+							<img src="img/uparis.png" class="image-logo">
+									<h6> </h6>
+									<h3>M2MO: Random Modelling, Finance & Data Science (Ex-DEA Laure ELIE) </h3>
+									<h4>Sep 2022 - May 2023, Paris, France</h4>
+									<p>
+										<ul>
+											<li>M2MO is a top-level one-year master program in probability and statistics with specialization in quantitative finance. Courses are offered in all aspects of modern quantitative finance starting from the basics of option pricing to more advanced subjects like volatility surface modeling, advanced interest rate models, credit risk, portfolio management etc. </li>
 										</ul>
 									</p>
 							<br/><br/>
@@ -166,8 +175,7 @@ Learning, Models and Systems for Big Data Management, Quantum physics. </li>
 									<h4>Feb 2021 - Aug 2021, Zürich, Switzerland</h4>
 									<p>
 										<ul>
-											<li>Academic Exchange in the Economics & Mathematics Department</li>
-											<li> Main courses: Decisions and Markets, Financial Economics, Business Analytics, Computational Methods for Quantitative
+											<li>Academic Exchange in the Economics & Mathematics Department. Main courses: Decisions and Markets, Financial Economics, Business Analytics, Computational Methods for Quantitative
 Finance</li>
 										</ul>
 									</p>
