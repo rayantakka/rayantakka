@@ -135,8 +135,6 @@ Development of Relative Value and risk monitoring tools.</li>
 									</p>
 								</li>
 
-								
-								</li>
 							</ul>
 						</section>
 						<!-- Resume section end -->
