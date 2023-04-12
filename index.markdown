@@ -64,7 +64,7 @@ layout: home
 								<h2>Rayan<br>Takka</h2>
 								<p>An engineering student from CentraleSupélec </p>
 							</div>
-							<p class="mb-5">I am currently a student in applied Mathematics at CentraleSupélec for my last year of studies after an internship in a quantitative strategy structuring team at BNP Paribas CIB and a trading internship in the Euro Govies and Inflation trading desk, in charge of the quotation and hedging of European bonds at Société Générale CIB. I am looking for an internship in quantitative finance starting in May 2023. </p>
+							<p class="mb-5">I am currently a student in applied Mathematics at CentraleSupélec for my last year of studies after an internship in a quantitative strategy structuring team at BNP Paribas CIB and a trading internship in the Euro Govies and Inflation trading desk, in charge of the quotation and hedging of European bonds at Société Générale CIB. </p>
 							<div class="hero-info pt-5">
 								<div class="section-title">
 									<h2>General Info</h2>
@@ -124,7 +124,7 @@ Main Tasks : Research, implementation, backtesting and optimization of Multi-Ass
 									<img src="img/sgcib.jpg" class="image-logo">
 									<h6> </h6>
 									<h6> </h6>
-									<h3>Trader Intern</h3>
+									<h3>Fixed Income Trader Intern</h3>
 									<h3>Société Générale CIB</h3>
 									<h4>Sept 2021 - Mar 2022, Paris, France</h4>
 									<p>
