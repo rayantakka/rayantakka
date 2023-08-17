@@ -116,7 +116,8 @@ layout: home
 										<ul><li>
 											  6-month internship in the SM&D (Statistical Modelling & Development) eCredit team at Baclays CIB, in charge of Credit products Systematic Market Making (CDS index, ETF, Cash Bonds, etc).
 											</li></ul>
-
+									<br/><br/>
+	 <br/><br/>
       
 									<img src="img/bnp_paribas_logo.png" class="image-logo">
 									<h6> </h6>
@@ -124,13 +125,14 @@ layout: home
 									<h3>Quantitative Investment Strategies (QIS) Intern</h3>
 									<h3>BNP Paribas CIB</h3>
 									<h4>Apr 2022 - Aug 2022, Paris, France</h4>
-		
+							
 										<ul><li>
 											  5-month internship in the QIS team OF BNP Paribas CIB, in charge of the development of quantitative investment strategies.
 Main Tasks : Research, implementation, backtesting and optimization of Multi-Asset Systematic Strategies, quantitative analysis of high frequency data to
 												identify optimal solutions.
 											</li></ul>
 									<br/><br/>
+	 <br/><br/>
 								<li>
 									<img src="img/sgcib.jpg" class="image-logo">
 									<h6> </h6>
