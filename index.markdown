@@ -114,7 +114,7 @@ layout: home
 									<h4>Jun 2023 - Dec 2023, London, United Kingdom</h4>
 		
 										<ul><li>
-											  6-month internship in the SM&D (Statistical Modelling & Development) eCredit team at Baclays CIB, in charge of Credit products Systematic Market Making (CDS index, ETF, Cash Bonds, etc).
+											  6-month internship in the SM&D (Statistical Modelling & Development) eCredit team at Baclays CIB, in charge of Credit products Systematic Market Making (CDS index, ETF, Cash Bonds, Portfolios etc).
 											</li></ul>
 									<br/><br/>
 	 <br/><br/>
