@@ -62,9 +62,9 @@ layout: home
 							</figure>
 							<div class="hero-text">
 								<h2>Rayan<br>Takka</h2>
-								<p>An engineering student from CentraleSupélec </p>
+								<p>Algo Trading Quant at Barclays </p>
 							</div>
-							<p class="mb-5">I am currently a student in applied Mathematics at CentraleSupélec for my last year of studies after an internship in a quantitative strategy structuring team at BNP Paribas CIB and a trading internship in the Euro Govies and Inflation trading desk, in charge of the quotation and hedging of European bonds at Société Générale CIB. </p>
+							<p class="mb-5">I am currently an Algo Trading Quant Intern in Credit Systematic Market making at Barclays CIB. I graduated with a master's degree in applied Mathematics at CentraleSupélec for my last year of studies and M2MO (Ex-DEA Laure Elie) Master's Degree from Université Paris Cité. Previously, I did an internship in a quantitative Investment strategies (QIS) team at BNP Paribas CIB and a trading internship in the Euro Govies and Inflation trading desk, in charge of the quotation and hedging of European bonds at Société Générale CIB. </p>
 							<div class="hero-info pt-5">
 								<div class="section-title">
 									<h2>General Info</h2>
@@ -106,7 +106,18 @@ layout: home
 								<h2>Work Experience</h2>
 							</div>
 							<ul class="resume-list">
-						
+<img src="img/Barclays.png" class="image-logo">
+									<h6> </h6>
+									<h6> </h6><!-- technique pour espacer le logo il y a surement bien mieux à faire (Il y a des caractères non vides invisible) -->
+									<h3>Algo Trading Quant Intern</h3>
+									<h3>Barclays CIB</h3>
+									<h4>Jun 2023 - Dec 2023, London, United Kingdom</h4>
+		
+										<ul><li>
+											  6-month internship in the SM&D (Statistical Modelling & Development) eCredit team at Baclays CIB, in charge of Credit products Systematic Market Making (CDS index, ETF, Cash Bonds, etc).
+											</li></ul>
+
+      
 									<img src="img/bnp_paribas_logo.png" class="image-logo">
 									<h6> </h6>
 									<h6> </h6><!-- technique pour espacer le logo il y a surement bien mieux à faire (Il y a des caractères non vides invisible) -->
